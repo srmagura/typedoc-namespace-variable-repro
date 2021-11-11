@@ -1,0 +1,8 @@
+{
+  "name": "typedoc-namespace-variable-repro",
+  "packageManager": "yarn@3.1.0",
+  "dependencies": {
+    "typedoc": "^0.22.8",
+    "typescript": "^4.4.4"
+  }
+}
